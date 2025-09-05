@@ -1,0 +1,20 @@
+# Alpha English Learning Assets - Raw GitHub URLs
+
+## Audio Files
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/exit_.mp3
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/hotel_.mp3
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/no_smoking_.mp3
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/parking_.mp3
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/puzzle_.mp3
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/smile_.mp3
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/stop_.mp3
+
+## Image Files
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4%20exit.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4%20hotel.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4%20no%20smoking.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4%20parking.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4%20puzzle.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4%20stop.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4.jpg
+https://raw.githubusercontent.com/Apokrit1/alpha-english-assets/main/%CE%910%20page-4_smile.jpg
